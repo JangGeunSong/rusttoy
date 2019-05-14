@@ -1,0 +1,7 @@
+[package]
+name = "rustToy"
+version = "0.1.0"
+authors = ["JangGeunSong <sjg1468@gmail.com>"]
+edition = "2018"
+
+[dependencies]

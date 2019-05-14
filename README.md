@@ -1,0 +1,1 @@
+This is the first Rust tutorial repository.
