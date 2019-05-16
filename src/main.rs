@@ -6,7 +6,9 @@
 // mod array;
 // mod vector;
 // mod conditional;
-mod loops;
+// mod loops;
+// mod functions;
+mod pointer_ref;
 
 fn main() {
     // print::run();
@@ -17,5 +19,7 @@ fn main() {
     // array::run();
     // vector::run();
     // conditional::run();
-    loops::run();
+    // loops::run();
+    // functions::run();
+    pointer_ref::run();
 }
